@@ -1,5 +1,8 @@
 {
-  "ma_inwi_star6": "vmess://ضع_رابط_انوي_هنا",
-  "ma_orange_star6": "vmess://ضع_رابط_اورنج_هنا",
-  "zero_dh_global": "dns://ضع_رابط_المجاني_هنا"
-}
+  "ma_iam_star6": "vmess://ضع_رابط_اتصالات_نجمة_6_هنا",
+  "ma_inwi_star6": "vmess://ضع_رابط_إنوي_نجمة_6_هنا",
+  "ma_orange_star6": "vmess://ضع_رابط_أورنج_نجمة_6_هنا",
+  "ma_zero_dh": "dns://ضع_رابط_0_درهم_هنا",
+  "eg_we_free": "vmess://رابط_مصر_وي",
+  "dz_mobilis_free": "vmess://رابط_الجزائر_موبيليس"
+} 
