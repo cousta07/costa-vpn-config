@@ -1,8 +1,7 @@
 {
-  "ma_iam_star6": "vmess://ضع_رابط_الاتصالات_هنا",
-  "ma_inwi_star6": "vmess://m.facebook.com",
-  "ma_orange_star6": "vmess://eyJhZGQiOiJldS0yLmhpaHUubmV0IiwiYWlkIjoiMCIsImlkIjoiYTQyZjAwYzAtMjBkNi0xMWYxLWI1MzItMjA1YzZkNWY1ZDc4IiwiaG9zdCI6Im0ub3JhbmdlLmNvbSIsIm5ldCI6IndzIiwicGF0aCI6Ii9lNWt6MHF1ciIsInBvcnQiOiI0NDMiLCJwcyI6IjQ0MyBWbWVzcyBOTCBGYXN0IChJUHY0ICYgSVB2NikgMjAyNi0wMy0yMyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-  "ma_zero_dh": "dns://m.orange.ma",
-  "eg_we_free": "vmess://رابط_مصر_مجاني",
-  "dz_mobilis_free": "vmess://رابط_الجزائر_موبيليس"
+  "Inwi *6": "vless://uuid@server-ip:443?encryption=none&security=tls&sni=v.whatsapp.net&type=ws&host=v.whatsapp.net&path=%2F#Cousta-Inwi",
+  "Orange *6": "vless://uuid@server-ip:443?encryption=none&security=tls&sni=www.instagram.com&type=ws&host=www.instagram.com&path=%2F#Cousta-Orange",
+  "Maroc Telecom *6": "vless://uuid@server-ip:443?encryption=none&security=tls&sni=web.facebook.com&type=ws&host=web.facebook.com&path=%2F#Cousta-IAM",
+  "Mobilis": "vless://uuid@server-ip:443?encryption=none&security=tls&sni=www.google.dz&type=ws&host=www.google.dz&path=%2F#Cousta-Algeria",
+  "Vodafone": "vless://uuid@server-ip:443?encryption=none&security=tls&sni=vodafone.eg&type=ws&host=vodafone.eg&path=%2F#Cousta-Egypt"
 } 
